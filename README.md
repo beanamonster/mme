@@ -21,14 +21,5 @@ If you are fluent in C programming and are interested in advancing the state of 
 
 Get in these Twitter DMs (@beanamonster) or send an email to beanamonster@yahoo.com (Yahoo is still cool).
 
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/beanamonster/mme/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thank you,
+  —beanamonster
