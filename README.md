@@ -51,4 +51,5 @@ If you are fluent in C programming and are interested in advancing the state of 
 Get in these Twitter DMs (@beanamonster) or send an email to beanamonster@yahoo.com (Yahoo is still cool).
 
 Thank you,
-  —beanamonster
+
+ 	—beanamonster
