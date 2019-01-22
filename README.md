@@ -7,6 +7,8 @@ Here I have uploaded what files I still have for MME as the original website had
 
 I've decided to include every version possible for the sake of historical entertainment (builds 352 through 640) but you will definitely want to use build 640 for the best experience. 
 
+I want to say there were Linux versions of all of the software here but if it existed, I have no idea where it is now. 
+
 ### Server
 
 I will only be including the latest version (that I have) of the server software because they rest of them were just awful. 
