@@ -36,7 +36,7 @@ I want to say there were Linux versions of all of the software here but if it ex
 
 ### Server
 
-I will only be including the latest version (that I have) of the server software because they rest of them were just awful. 
+I will only be including the latest version (that I have) of the server software because the rest of them were just awful. 
 If you have any questions about the server, feel free to contact me. It's been a long time, but I'm sure I can still navigate through most of the confusing parts.
 
 [Download Map Server build 699](https://github.com/beanamonster/mme/raw/master/map_server_699.zip)
